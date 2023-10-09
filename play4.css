@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    color: antiquewhite;
+}
+.navigation{
+    width: 100%;
+    height: 200vh;
+    background-image: url(images/tiên\ nghịch.jpg);
+    background-size: cover;
+}
+.container-fluid{
+    background-color: rgb(44, 43, 43);
+    color: white;
+    display: flex;
+    align-items: start;
+    margin-bottom: -20px;
+}
+.container-fluid a{
+    color: white;
+}
+.dropdown-menu{
+    background-color: black;
+}
+.d-flex{
+    padding: 5px 0;
+}
+.accordion-item{
+    margin-top: 20px;
+    background-image: url(images/tru\ tien.jpg);
+    background-size: cover;
+    width: 100%;
+}
